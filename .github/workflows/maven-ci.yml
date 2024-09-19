@@ -31,7 +31,7 @@ name: Java CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [ masterx ]
 
 jobs:
 
