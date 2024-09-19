@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 export XY_NAME=local_java-design-patterns_PRO_TRIAL
 export XY_ENV=/home/luisgarcia/LGV/XY_SCANNERS/scanner_pro_trial
