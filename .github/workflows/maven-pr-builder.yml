@@ -28,7 +28,7 @@ name: Java PR Builder
 
 on:
   pull_request_target:
-    branches: [ master ]
+    branches: [ masterx ]
     types: [ opened, reopened, synchronize ]
 
 permissions:
